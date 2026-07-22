@@ -6,3 +6,6 @@
 
 # Mac OS X rubbish
 .DS_Store
+
+*.vcxproj
+*.user
